@@ -1,0 +1,2 @@
+# Trabalho-Estrutura-de-dados-1---Sistema-de-gerenciamento-de-biblioteca
+Programa em C que implementa uma lista de cadastro de clientes de uma biblioteca utilizando lista duplamente encadeada, structs, ponteiros e alocação dinâmica de memória. Permite inserir, remover, buscar por nome, navegar entre os registros e salvar os dados em arquivo, armazenando nome, telefone, data de nascimento e e-mail dos clientes.
