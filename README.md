@@ -1,6 +1,7 @@
 # Trabalho-Estrutura-de-dados-1---Sistema-de-castrado-de-clientes-biblioteca
 
 1) Sobre o Projeto
+   
 Este projeto implementa, em linguagem C, um sistema de cadastro de clientes de uma biblioteca utilizando lista duplamente encadeada. O programa faz uso de structs, ponteiros e alocação dinâmica de memória para gerenciar os dados dos clientes.
 
 Cada cliente possui as seguintes informações:
